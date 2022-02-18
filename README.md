@@ -7,7 +7,7 @@
 <!-- <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sys-liqian&show_icons=true&theme=gotham" alt="flightfish" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dongliangde&show_icons=true&theme=gotham" alt="flightfish" />
 </details> -->
 <!--
 **dongliangde/dongliangde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
   动态规划？回溯剪枝?不存在的!又不是不能跑! 复制粘贴, 能跑就行.搞那花里胡哨的干啥!
   </pre>
 
-![](https://github-readme-stats.vercel.app/api?username=sys-liqian&show_icons=true)
-![Snake animation](https://github.com/sys-liqian/sys-liqian/blob/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api?username=dongliangde&show_icons=true)
+![Snake animation](https://github.com/dongliangde/dongliangde/blob/output/github-contribution-grid-snake.svg)
