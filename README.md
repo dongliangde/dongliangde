@@ -32,11 +32,11 @@ My name is Dong Liangde. I'm a freelance backend developer living near Beijing, 
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=38B2AC" alt="Redis logo" title="Redis" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=E10098" alt="Spring logo" title="Spring" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Elasticsearch-282C34?logo=Elasticsearch&logoColor=FFFFFF" alt="Elasticsearch logo" title="Elasticsearch" height="25" />][learning_next_anchor]
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
