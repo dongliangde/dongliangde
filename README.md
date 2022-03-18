@@ -42,5 +42,5 @@ My name is Dong Liangde. I'm a freelance backend developer living near Beijing, 
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
-![](https://github-readme-stats.vercel.app/api?username=dongliangde&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=dongliangde&show_icons=true)
 ![Snake animation](https://github.com/dongliangde/dongliangde/blob/output/github-contribution-grid-snake.svg)
