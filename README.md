@@ -1,4 +1,4 @@
-# Bonjour ! 🥖
+# Hello ! 🥖
 
 My name is Dong Liangde. I'm a freelance backend developer living near Beijing, China 🥐
 
