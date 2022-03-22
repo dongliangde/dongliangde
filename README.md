@@ -26,7 +26,10 @@ My name is Dong Liangde. I'm a freelance backend developer living near Beijing, 
 &nbsp;
 [<img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=38B2AC" alt="Redis logo" title="Redis" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Elasticsearch-282C34?logo=Elasticsearch&logoColor=FFFFFF" alt="Elasticsearch logo" title="Elasticsearch" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Elasticsearch-282C34?logo=Elasticsearch&logoColor=FFFFFF" alt="Elasticsearch logo" title="Elasticsearch" height="25" />]
+&nbsp;
+[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25" />]
+[learning_next_anchor]
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
