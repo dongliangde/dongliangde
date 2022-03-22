@@ -11,6 +11,11 @@ My name is Dong Liangde. I'm a freelance backend developer living near Beijing, 
 [<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=3178C6" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Linux-282C34?logo=Linux&logoColor=3DDC84" alt="Linux logo" title="Linux" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
+
 
 <a name="learning-next"></a>
 
@@ -27,8 +32,6 @@ My name is Dong Liangde. I'm a freelance backend developer living near Beijing, 
 [<img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=38B2AC" alt="Redis logo" title="Redis" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Elasticsearch-282C34?logo=Elasticsearch&logoColor=FFFFFF" alt="Elasticsearch logo" title="Elasticsearch" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25" />][learning_next_anchor]
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
