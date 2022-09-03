@@ -19,7 +19,7 @@ My name is Dong Liangde. I'm a freelance backend developer living near Beijing, 
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+## 📖  What I am currently learning / improving on 
 
 [<img src="https://img.shields.io/badge/C++-282C34?logo=C&logoColor=FFCA28" alt="C++ logo" title="C++" height="25" />][learning_now_anchor]
 &nbsp;
